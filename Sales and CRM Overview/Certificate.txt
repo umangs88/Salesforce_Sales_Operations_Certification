@@ -1,0 +1,7 @@
+* Explain how CRM works in the context of sales, marketing, and customer service in modern businesses.
+
+* Articulate use cases for how Salesforce can provide value to sales teams.
+
+* Navigate Trailhead, the official learning platform of Salesforce.
+
+* Demonstrate a working knowledge of the basics of the Salesforce Sales Cloud
