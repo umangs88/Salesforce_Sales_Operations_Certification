@@ -1,0 +1,1 @@
+#### Opportunity management is a process where potential sales deals are developed by the members of the sales team, progressed through the sales  pipeline, and converted into revenue generating customers.
